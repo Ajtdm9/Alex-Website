@@ -1,4 +1,28 @@
-.paragraph {
-  color: red;
-  font-size: 20px;
+body {
+  background-color: #111220;
+  margin: 0
 }
+
+.nav {
+  margin:10px;
+  border-radius:15px;
+  height:40px;
+  background-color:#2b253b;
+  box-shadow: 10px 10px 10px;
+  border-style:dotted;
+  border-color:rgb(128, 124, 185);
+  border-width:3px;
+}
+
+.header{
+  text-align:center;
+  margin-top:11px;
+  color:white;
+  font-family: 'Gill Sans MT';
+  letter-spacing:1px;
+}
+
+.page{
+  height:100px;
+}
+
